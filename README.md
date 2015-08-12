@@ -4,3 +4,4 @@
     - 1*controller
     - n*compute
 - No detailed guide currently
+- system_init.sh is NO use currently
